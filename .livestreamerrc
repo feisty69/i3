@@ -1,0 +1,5 @@
+twitch-oauth-token=r3suwi4ude0vy96ww5r36j8ygmcouv
+player=mpv --cache 2048
+hls-live-edge
+hls-segment-threads 10
+
