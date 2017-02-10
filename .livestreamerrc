@@ -1,4 +1,0 @@
-twitch-oauth-token=XXX
-player=mpv --cache 2048
-hls-live-edge
-hls-segment-threads 10
